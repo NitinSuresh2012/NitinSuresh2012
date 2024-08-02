@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math/Video Games
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Studies
-- 📫 How to reach me is by subscribing to yo r sonic on youtube
+- 📫 How to reach me is by subscribing to yo t sonic on youtube
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Im HIM on basketball
 
