@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @NitinSuresh2012
-- 👀 I’m interested in Math/Video Games
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Studies
-- 📫 How to reach me is by subscribing to yo t sonic on youtube
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: Im HIM on basketball
+ 👋 Hi, I'm Nitin Suresh
+- 👀 Interested in robotics, game development, and finance
+- 🌱 Currently learning Java
+- 💞️ Looking to collaborate on academic projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a dedicated basketball player
+
+### 🎯 Hobbies & Interests
+- 🤖 Robotics
+- 🎮 Video Games & Game Development
+- 🏀 Basketball
+- 💰 Finance
 
 <!---
 NitinSuresh2012/NitinSuresh2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
